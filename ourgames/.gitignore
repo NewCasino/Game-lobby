@@ -1,0 +1,3 @@
+# For development, when versioning ignore all files but .gitignore
+*
+!.gitignore

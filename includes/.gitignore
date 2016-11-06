@@ -1,0 +1,6 @@
+### For development, ignore these files when versioning
+config.inc.php
+db_functions.inc.php
+Thumbs.db
+dberrors_log.txt
+!.gitignore
